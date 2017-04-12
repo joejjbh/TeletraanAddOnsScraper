@@ -1,0 +1,16 @@
+c:\users\joe hobbs\documents\visual studio 2015\Projects\AddOnsScraper\AddOnsScraper\bin\Debug\AddOnsScraper.exe.config
+c:\users\joe hobbs\documents\visual studio 2015\Projects\AddOnsScraper\AddOnsScraper\obj\Debug\AddOnsScraper.csprojResolveAssemblyReference.cache
+c:\users\joe hobbs\documents\visual studio 2015\Projects\AddOnsScraper\AddOnsScraper\bin\Debug\AddOnsScraper.exe
+c:\users\joe hobbs\documents\visual studio 2015\Projects\AddOnsScraper\AddOnsScraper\bin\Debug\AddOnsScraper.pdb
+c:\users\joe hobbs\documents\visual studio 2015\Projects\AddOnsScraper\AddOnsScraper\obj\Debug\AddOnsScraper.exe
+c:\users\joe hobbs\documents\visual studio 2015\Projects\AddOnsScraper\AddOnsScraper\obj\Debug\AddOnsScraper.pdb
+c:\users\joe hobbs\documents\visual studio 2015\Projects\AddOnsScraper\AddOnsScraper\bin\Debug\Newtonsoft.Json.dll
+c:\users\joe hobbs\documents\visual studio 2015\Projects\AddOnsScraper\AddOnsScraper\bin\Debug\Newtonsoft.Json.xml
+C:\dev\TeletraanAddOnsScraper\AddOnsScraper\bin\Debug\AddOnsScraper.exe.config
+C:\dev\TeletraanAddOnsScraper\AddOnsScraper\obj\Debug\AddOnsScraper.exe
+C:\dev\TeletraanAddOnsScraper\AddOnsScraper\obj\Debug\AddOnsScraper.pdb
+C:\dev\TeletraanAddOnsScraper\AddOnsScraper\bin\Debug\AddOnsScraper.exe
+C:\dev\TeletraanAddOnsScraper\AddOnsScraper\bin\Debug\AddOnsScraper.pdb
+C:\dev\TeletraanAddOnsScraper\AddOnsScraper\bin\Debug\Newtonsoft.Json.dll
+C:\dev\TeletraanAddOnsScraper\AddOnsScraper\bin\Debug\Newtonsoft.Json.xml
+C:\dev\TeletraanAddOnsScraper\AddOnsScraper\obj\Debug\AddOnsScraper.csprojResolveAssemblyReference.cache
